@@ -1,7 +1,13 @@
 .orange-btn {
 	/*your code here*/
+	padding: 10px;
+	background-color: #f39c12;
+	border-radius: 4px;
+	text-decoration: none;
+	color: white;
 }
 
 .orange-btn:hover {
 	/*YOUR CODE HERE FOR THE HOVER STATE*/
+	background-color: #d19c12;
 }
